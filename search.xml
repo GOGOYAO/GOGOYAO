@@ -17,6 +17,12 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>博客搭建</tag>
+      </tags>
   </entry>
   <entry>
     <title>博客搭建方法</title>
@@ -27,8 +33,23 @@
 <li><a href="https://www.jianshu.com/p/3a05351a37dc">hexo next主题配置</a></li>
 </ol>
 ]]></content>
+      <categories>
+        <category>博客搭建</category>
+      </categories>
       <tags>
         <tag>博客搭建</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>About Me</title>
+    <url>/2021/08/01/about/</url>
+    <content><![CDATA[<blockquote>
+<p>A startup programer, Beijing</p>
+</blockquote>
+<p>Stay foolish, Stay hungry</p>
+]]></content>
+      <tags>
+        <tag>随笔</tag>
       </tags>
   </entry>
 </search>
